@@ -9,7 +9,7 @@ body{
     justify-content: center;
 /*     background: url("assests/img/bg.jpg");
     background-size: cover; */
-    background-color: gray;
+    background-color: rgb(180, 137, 295);
     text-align: center;
     transition: all 0.5s;
 }
